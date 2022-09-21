@@ -1,10 +1,21 @@
+# deco
 
-![header](https://capsule-render.vercel.app/api?text=Tahar%20Belghitri&animation=blink&type=rect&height=300&color=gradient)
+![header](https://capsule-render.vercel.app/api?text=Tahar%20Belghitri&animation=blink&type=waving&height=300&color=gradient)
 
-hi there I am tahar fullstack developer from algeria
+<h1>hey there !👋</h1> <p></p>
+
+<h3>
+my name is tahar belghitri  / fullstack developer based on algeria
+self-taught developer and ecologist in the real world 
+<p></p>
+I’m just spending my whole day experimenting with new tech in web dev field (react & nodejs & types ... and more ) 
+</h3>
+<p></p>
+
+#
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaharBelghitri&theme=dark)]()
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaharBelghitriDz&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaharBelghitriDz&layout=compact&theme=dark)]()
 
 #
 
@@ -20,15 +31,10 @@ hi there I am tahar fullstack developer from algeria
 
 ## Get closer
 
-#
-
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![Snapchat](https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=white)
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://web.facebook.com/tahar.belghitri)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?compose=new#inbox?compose=GTvVlcSHxGsTHRnplxVDXNvhcGFpZXRVNFKXbWRBGkdXFHdsmfqLvGKRzWkhpzRtsJtXgNrhwcvSM)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahar-belghitri-3a182a199/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/tahar_belghitri/)
 
 #
 
