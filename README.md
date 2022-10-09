@@ -3,12 +3,12 @@
 
 <h1>hey there !👋</h1> <p></p>
 
-<h3>
+
 my name is tahar belghitri  / fullstack developer based on algeria
 self-taught developer and ecologist in the real world 
 <p></p>
 I’m just spending my whole day experimenting with new tech in web dev field (react & nodejs & types ... and more ) 
-</h3>
+
 <p></p>
 
 #
