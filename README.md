@@ -13,7 +13,7 @@ I’m just spending my whole day experimenting with new tech in web dev field (r
 
 #
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaharBelghitri&theme=dark)]()
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaharBelghitriDz&layout=compact&theme=dark)]()
 
 #
