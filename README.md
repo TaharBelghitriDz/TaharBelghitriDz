@@ -4,8 +4,8 @@
 <h1>hey there !👋</h1> <p></p>
 
 
-my name is tahar belghitri  / fullstack developer based on algeria
-self-taught developer and ecologist in the real world 
+Tahar Belghitri
+Where ecology meets physics and code comes alive! I'm a 4-year full-stack developer who brings a unique perspective to the table. My diverse background has shaped my approach to problem-solving and fueled my passion for building user-centric applications. Let's explore the potential together!
 <p></p>
 I’m just spending my whole day experimenting with new tech in web dev field (react & nodejs & types ... and more ) 
 
